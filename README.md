@@ -48,8 +48,10 @@ grade-entry-flutter-app/
 
 ## 📸 Screenshots
 
-> Add screenshots inside the `screenshots/` folder and reference them here:
-
+| Screen | Preview |
+|--------|---------|
+| View 1 | ![List screen](assets/images/img1.png) |
+| View 2 | ![Grade form](assets/images/img2.png) |
 
 ---
 
